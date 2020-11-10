@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T11:44:08.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="cwO3SDiowjw_Y1SLSQjz" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T11:48:52.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="dtZMduKGY-bdF6Ag-nug" version="13.9.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,29 +73,15 @@
         <mxCell id="t-u_EsN-zB867bTSoadE-55" value="Sipariş Hazırlanıyor&lt;br&gt;(Status)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="390" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t-u_EsN-zB867bTSoadE-62" value="Koli Aç" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447" y="480" width="133" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t-u_EsN-zB867bTSoadE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-u_EsN-zB867bTSoadE-55" target="t-u_EsN-zB867bTSoadE-62">
+        <mxCell id="t-u_EsN-zB867bTSoadE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t-u_EsN-zB867bTSoadE-55" target="t-u_EsN-zB867bTSoadE-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="420" as="sourcePoint" />
-            <mxPoint x="656.5" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="514" y="470" />
-            </Array>
+            <mxPoint x="513.5" y="480" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t-u_EsN-zB867bTSoadE-64" value="Koli Aç" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="570" width="133" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="t-u_EsN-zB867bTSoadE-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="540" as="sourcePoint" />
-            <mxPoint x="513" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="513.5" y="560" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="t-u_EsN-zB867bTSoadE-66" value="İlaç Okut,&amp;nbsp;&lt;br&gt;Koliye Ekle" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="447" y="660" width="133" height="60" as="geometry" />
